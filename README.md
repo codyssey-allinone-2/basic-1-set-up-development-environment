@@ -12,9 +12,9 @@ Shell: Zsh
 Docker: 28.1.1
 GIT: 2.55
 ### 실습 결과
-- [Terminal-CLI](docs%2Fterminal-cli.md)
-- [docker](report%2Fdocker.md)
-- [git](report%2Fgit.md)
+- [terminal-cli](/report/terminal-cli.md)
+- [docker](/report/docker.md)
+- [git](/report/git.md)
 
 ### CHECK LIST
 #### 터미널

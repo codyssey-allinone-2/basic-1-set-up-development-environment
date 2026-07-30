@@ -1,4 +1,4 @@
-## Terminal
+# Terminal
 > **Terminal & OS & Shell**
 > 
 > OS (Operating System)은 컴퓨터의 하드웨어(cpu, 메모리 등)를 관리하는 소프트웨어다. 

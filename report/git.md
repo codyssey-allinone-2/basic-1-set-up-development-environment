@@ -13,7 +13,7 @@
 > | branch | main 코드에 영향을 주지 않고 독립적으로 작업할 수 있는 가지 |
 > | commit | 코드 변경 내용에 대한 기록 (저장)하는 단위            |
 > | merge | 여러 브랜치의 작업내역을 한 브랜치로 합치는 행위 |
-## Organization 생성 및 repository 만들기 
+## Organization 과 Repository를 만든다
 ### organization을 만든다 
 1. GitHub 로그인 > 우측 상단 프로필 클릭 > Settings(설정) 
 2. `New organization`  > 요금제 Free 선택 > `Create a free organization` > 조직 정보 입력
